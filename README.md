@@ -1,10 +1,8 @@
 # Exploratory Analysis
-Exploratory analysis of the PROJECT'S data sources.
+Exploratory analysis of the Plooto's data sources.
 
 ## Use Cases and Basic Data Descriptions
-* [UC1](docs/UC1.md) - [original data](https://legacy.link/here) - [our server](http://our.server.com/uc1.zip)
-* [UC1](docs/UC2.md) - [original data](https://legacy.link/here) - [our server](http://our.server.com/uc2.zip)
-* [UC1](docs/UC3.md) - [original data](https://legacy.link/here) - [our server](http://our.server.com/uc3.zip)
+* [Italian Use Case - Drones](docs/UC1-Drones.md) - [original data](https://maggiolispa.sharepoint.com/sites/PlootoHorizon/Documenti%20condivisi/Forms/AllItems.aspx?id=%2Fsites%2FPlootoHorizon%2FDocumenti%20condivisi%2FWP2%20%2D%20Supply%20chain%20DT%20modelling%20and%20operation%2FT2%2E4%20%2D%20Predictive%20Analytics%20and%20AI%20Services%2FItalian%20Pilot&viewid=e60a2162%2D2955%2D49c2%2D86f4%2D0aeb15c63b1b) - [our server](https://drive.google.com/file/d/11ZWaBpJHaZFoQTEXCWmd6dS6Pc8FwvHG/view?usp=sharing)
 
 To download all the data and extract it to raw folder start the following:
 ```
