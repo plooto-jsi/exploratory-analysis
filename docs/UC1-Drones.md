@@ -1,4 +1,4 @@
-# USE CASE 1
+# ITALIAN USE CASE - Drones - CFRP
 
 ## Readme
 
@@ -7,30 +7,29 @@ The purpose of this document is to aggregate all the core info about use case in
 
 ## Partners
 
-* List of involved partners, contacts, roles
+* AUEB - Optimization
+  * K(ostas?) Kapari
+* TUC - Process modelling
+* JSI - Data-driven modelling
+* HP Composites - providing materials
+* CETMA - providing materials
+* CETMA Composites - re-testing and curing materials
+  * Silvio Pappada
+* Acceli - drone production, use case leader
+  * Sevasti Gioti (use case leader) 
 
 ## Use case definition
 
 Use case 1 is divided into these cases:
 
-* (UCC1) X
-* (UCC2) Y
+* discretization/classification of uncured material
+* classification of cured materials
 * (UCC3) Z
 
-## UCC1 case
-
-UCC1 refers to _"This task"_.
-
-Short description of the use case.
-
-UCC1 goals are:
-
-* Goal 1
-* Goal 2
-* Goal 3
 
 ### Data availability
 
+`TODO`
 Information about historic data and data that will be available.
 
 The parameters that influence the use case are:
@@ -42,6 +41,7 @@ The parameters that influence the use case are:
 Any other  relevant info.
 
 ### I/O definition
+`TODO`
 
 All the inputs have a datetime stamp and ...
 
